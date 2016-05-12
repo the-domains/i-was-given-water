@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[I was Given Water]]></title>
-        <description><![CDATA[I was Given Water]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Given Water]]></title>
+        <description><![CDATA[Given Water]]></description>
+        <link>https://thegrid.ai/i-was-given-water/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 22:19:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 22:49:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/i-was-given-water/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"living water"</p>]]></description>
-            <link>undefinedliving-water/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d4e942f-670f-440c-88c5-3e353531e988.jpg">]]></description>
+            <link>https://thegrid.ai/i-was-given-water/living-water/index.html</link>
             <guid isPermaLink="false">4152edb6-a8f5-4cdf-90cd-cf8ad25310ee</guid>
-            <pubDate>Thu, 12 May 2016 22:19:58 GMT</pubDate>
+            <pubDate>Thu, 12 May 2016 22:49:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
