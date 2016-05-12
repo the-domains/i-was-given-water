@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Living Water
-datePublished: '2016-05-12T22:49:32.912Z'
-dateModified: '2016-05-12T22:49:24.275Z'
+datePublished: '2016-05-12T22:53:41.793Z'
+dateModified: '2016-05-12T22:53:41.327Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-living-water.md
