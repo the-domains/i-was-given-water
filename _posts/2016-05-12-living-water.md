@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: '"living water"'
-datePublished: '2016-05-12T22:19:58.488Z'
-dateModified: '2016-05-12T22:19:31.902Z'
+description: Living Water
+datePublished: '2016-05-12T22:49:32.912Z'
+dateModified: '2016-05-12T22:49:24.275Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-12-living-water.md
 authors: []
 publisher:
   name: null
@@ -16,63 +17,70 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-living-water.md
 url: living-water/index.html
 _type: Article
 
 ---
-"living water"
+Living Water
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d4e942f-670f-440c-88c5-3e353531e988.jpg)
 
-Lying in a dry bed
+On a dry night bed
 
-One night in the desert,
+in crackling grasses,
 
-All things are together.
+All things are 
 
-A scene of some house in texas
+together.
 
-Arises above the throat
+A house in texas
 
-a dog barking
+Arises to the throat
 
-A screen door swinging
+_.....a dog barking_
 
-footsteps on a porch
+_screen door swinging_
 
-And a growing rumble
+_fast footsteps_
 
-of soon-arriving, ripping,
+_over the porch._
 
-Tides of wet air   
-and wind
+_A rumination_
 
-Christmas as a child,
+_of soon-arriving, ripping,_
 
-A miracle in Saudi Arabia.
+_Tides of wet air......._
 
-Some man dies
+_.......Christmas as a child,_
 
-for another.
+_Some miracle in Saudi Arabia._
 
-A swoon
+_A madame tolls_
 
-bones and heart
+_for another._
 
-electric stations
+_A screech,_
 
-Old things have become,
+_High parts,_
 
-New things real.
+_Spine bones and cardic_
 
-To the parched and those Furthest from great relief -
+_The air is_
+
+_electric phrases!_
+
+_Hold ON!_
+
+To the dearly parched and to those it may concern:
 
 In the desert,
 
+behind the desert.
+
 moving.
 
-something is moving
+something is moving.
 
 It is moving
 
-Moving, moving, moving, moving
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49487560-666e-41b1-a723-c9aa3383d8bd.jpg)
+Moving, moving, moving, moving, moving, moving
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eafc5f27-c6cb-4ca9-9ed6-6fae313461e6.jpg)
